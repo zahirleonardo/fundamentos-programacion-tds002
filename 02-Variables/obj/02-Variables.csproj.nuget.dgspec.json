@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj": {}
+    "C:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj": {}
   },
   "projects": {
-    "c:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj": {
+    "C:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj",
+        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj",
         "projectName": "02-Variables",
-        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj",
+        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\02-Variables\\02-Variables.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\02-Variables\\obj\\",
+        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\02-Variables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"

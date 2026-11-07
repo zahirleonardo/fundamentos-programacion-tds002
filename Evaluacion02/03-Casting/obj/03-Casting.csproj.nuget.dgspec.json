@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj": {}
+    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj": {
+    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj",
+        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj",
         "projectName": "03-Casting",
-        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj",
+        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\03-Casting.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\obj\\",
+        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\03-Casting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"

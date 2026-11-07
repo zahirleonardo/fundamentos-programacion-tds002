@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj",
         "projectName": "03-Geometria",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\03-Geometria.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\03-Geometria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
