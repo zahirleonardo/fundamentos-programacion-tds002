@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj",
         "projectName": "02-ConversorMoneda",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\02-ConversorMoneda.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\02-ConversorMoneda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
