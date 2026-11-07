@@ -1,0 +1,15 @@
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\bin\Debug\net10.0\01-FichaPersonal.exe
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\bin\Debug\net10.0\01-FichaPersonal.deps.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\bin\Debug\net10.0\01-FichaPersonal.runtimeconfig.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\bin\Debug\net10.0\01-FichaPersonal.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\bin\Debug\net10.0\01-FichaPersonal.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.AssemblyInfoInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.AssemblyInfo.cs
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.csproj.CoreCompileInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.sourcelink.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\refint\01-FichaPersonal.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\01-FichaPersonal.genruntimeconfig.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\01-FichaPersonal\obj\Debug\net10.0\ref\01-FichaPersonal.dll
