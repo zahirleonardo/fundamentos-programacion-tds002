@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj",
         "projectName": "01-Nomina",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\01-Nomina.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\01-Nomina\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
