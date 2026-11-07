@@ -1,0 +1,15 @@
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\bin\Debug\net10.0\01-Nomina.exe
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\bin\Debug\net10.0\01-Nomina.deps.json
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\bin\Debug\net10.0\01-Nomina.runtimeconfig.json
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\bin\Debug\net10.0\01-Nomina.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\bin\Debug\net10.0\01-Nomina.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.AssemblyInfoInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.AssemblyInfo.cs
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.csproj.CoreCompileInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.sourcelink.json
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\refint\01-Nomina.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\01-Nomina.genruntimeconfig.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion03\01-Nomina\obj\Debug\net10.0\ref\01-Nomina.dll
