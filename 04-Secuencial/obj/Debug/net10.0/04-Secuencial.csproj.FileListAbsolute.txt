@@ -1,0 +1,15 @@
+C:\Users\zahir\01-HolaMundo\04-Secuencial\bin\Debug\net10.0\04-Secuencial.exe
+C:\Users\zahir\01-HolaMundo\04-Secuencial\bin\Debug\net10.0\04-Secuencial.deps.json
+C:\Users\zahir\01-HolaMundo\04-Secuencial\bin\Debug\net10.0\04-Secuencial.runtimeconfig.json
+C:\Users\zahir\01-HolaMundo\04-Secuencial\bin\Debug\net10.0\04-Secuencial.dll
+C:\Users\zahir\01-HolaMundo\04-Secuencial\bin\Debug\net10.0\04-Secuencial.pdb
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.AssemblyInfoInputs.cache
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.AssemblyInfo.cs
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.csproj.CoreCompileInputs.cache
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.sourcelink.json
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.dll
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\refint\04-Secuencial.dll
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.pdb
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\04-Secuencial.genruntimeconfig.cache
+C:\Users\zahir\01-HolaMundo\04-Secuencial\obj\Debug\net10.0\ref\04-Secuencial.dll
