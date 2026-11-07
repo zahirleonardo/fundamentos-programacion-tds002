@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj",
         "projectName": "07-Ciclos",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\07-Ciclos.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\07-Ciclos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
