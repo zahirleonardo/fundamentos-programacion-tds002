@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj",
         "projectName": "02-Factura",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\02-Factura.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion03\\02-Factura\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
