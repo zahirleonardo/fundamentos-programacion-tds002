@@ -1,0 +1,15 @@
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\bin\Debug\net10.0\02-ConversorMoneda.exe
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\bin\Debug\net10.0\02-ConversorMoneda.deps.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\bin\Debug\net10.0\02-ConversorMoneda.runtimeconfig.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\bin\Debug\net10.0\02-ConversorMoneda.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\bin\Debug\net10.0\02-ConversorMoneda.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.AssemblyInfoInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.AssemblyInfo.cs
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.csproj.CoreCompileInputs.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.sourcelink.json
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\refint\02-ConversorMoneda.dll
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.pdb
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\02-ConversorMoneda.genruntimeconfig.cache
+C:\Users\zahir\01-HolaMundo\Evaluacion02\02-ConversorMoneda\obj\Debug\net10.0\ref\02-ConversorMoneda.dll
