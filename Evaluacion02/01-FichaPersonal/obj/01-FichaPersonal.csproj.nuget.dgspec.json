@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj": {}
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj": {
+    "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj",
+        "projectUniqueName": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj",
         "projectName": "01-FichaPersonal",
-        "projectPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj",
+        "projectPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\01-FichaPersonal.csproj",
         "packagesPath": "C:\\Users\\zahir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\obj\\",
+        "outputPath": "c:\\Users\\zahir\\01-HolaMundo\\Evaluacion02\\01-FichaPersonal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zahir\\AppData\\Roaming\\NuGet\\NuGet.Config"
